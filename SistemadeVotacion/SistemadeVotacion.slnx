@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Conexion/" />
+  <Folder Name="/Interfaz/">
+    <Project Path="SistemadeVotacion/SistemadeVotacion.csproj" />
+  </Folder>
+  <Folder Name="/Logica/" />
+  <Folder Name="/Reportes/" />
+</Solution>
