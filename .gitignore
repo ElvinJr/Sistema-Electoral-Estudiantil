@@ -1,0 +1,50 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+
+# Publish / output
+publish/
+out/
+
+# Logs and temp
+*.log
+tmp/
+temp/
+
+# Database files / backups
+*.mdf
+*.ldf
+*.bak
+
+# Secrets and environment
+appsettings.*.json
+secrets.json
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test results
+TestResults/
+*.trx
+
+# Generated files
+*.userprefs
